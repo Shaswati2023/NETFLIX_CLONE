@@ -13,13 +13,13 @@ This is a single-page static website with some cool animations ✨
 - 🌐 HTML  
 - 🎨 CSS  
 
-## 🚀 Live Demo  
-[🔗 View on GitHub Pages](#)  
-*(Replace # with your deployed GitHub Pages link)*  
 
 ## 📸 Screenshots  
 ![Netflix Clone Screenshot](#)  
-(Add screenshot link after uploading your project)  
+<img width="1895" height="917" alt="Screenshot 2025-09-19 201910" src="https://github.com/user-attachments/assets/c9d19495-c968-402a-94e0-af450468b697" />
+<img width="1882" height="580" alt="Screenshot 2025-09-19 202046" src="https://github.com/user-attachments/assets/320e36c5-0de7-40da-941f-a67905725da4" />
+
+  
 
 ## 📂 Installation  
 1. Clone the repository  
